@@ -1,0 +1,22 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+}
+
+.main-promo h1 {
+  font-size: 60px;
+  line-height: 60.35px;
+  font-weight: bold;
+}
+
+.left-promo.right-promo h2 {
+  font-size: 35px;
+  line-height: 41px;
+  font-weight: bold;
+}
+
+.catalog-h1 h1 {
+  font-size: 35px;
+  line-height: 41px;
+  font-weight: bold;
+}
